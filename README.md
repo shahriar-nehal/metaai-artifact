@@ -45,7 +45,7 @@ remain included in the evaluation results.
     │       ├── main.py
     │       └── requirements.txt
     │
-    ├── analysis/
+    ├── evaluation/
     │   ├── static_analysis/
     │   │   └── llm_screening.py
     │   └── dynamic_analysis/
