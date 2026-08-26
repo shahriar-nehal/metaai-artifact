@@ -1,4 +1,4 @@
-# Ghost in the Lens: Verifiable Privacy Architecture Artifact
+# Ghost in the Lens Artifacts
 
 This anonymous repository contains the research artifacts accompanying
 our USENIX Security '27 submission. The artifact provides the prototype
