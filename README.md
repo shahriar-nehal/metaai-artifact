@@ -44,7 +44,6 @@ measurements and outcomes remain included in the evaluation results.
     │   │   └── [modified CameraAccess components]
     │   └── edge/
     │       ├── main.py
-    │       └── requirements.txt
     │
     ├── evaluation/
     │   ├── evaluate_live_server.py
