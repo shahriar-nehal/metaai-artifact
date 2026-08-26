@@ -1,0 +1,486 @@
+{
+  "1.jpg": {
+    "category": "natural_scene",
+    "pii": {},
+    "description": "A red wooden boardwalk in a park with autumn trees.",
+    "metadata": {
+      "text_in_image": "REDMI NOTE 11"
+    }
+  },
+  "2.jpg": {
+    "category": "natural_scene",
+    "pii": {},
+    "description": "A black utility vehicle on a paved campus path with autumn trees.",
+    "metadata": {
+      "text_in_image": "REDMI NOTE 11"
+    }
+  },
+  "3.jpg": {
+    "category": "natural_scene",
+    "pii": {},
+    "description": "Close-up of green plant leaves with a blurred building in the background.",
+    "metadata": {
+      "text_in_image": "REDMI NOTE 11"
+    }
+  },
+  "4.jpg": {
+    "category": "natural_scene",
+    "pii": {},
+    "description": "A white mug with a floral design on a green textured table.",
+    "metadata": {
+      "text_in_image": "REDMI NOTE 11"
+    }
+  },
+  "5.jpg": {
+    "category": "natural_scene",
+    "pii": {},
+    "description": "View of a white two-story house, an empty field, and a forested hill.",
+    "metadata": {
+      "text_in_image": "REDMI NOTE 11"
+    }
+  },
+  "6.jpg": {
+    "category": "natural_scene",
+    "pii": {},
+    "description": "A paved pathway between two rows of white houses with brown tiled roofs.",
+    "metadata": {
+      "text_in_image": "REDMI NOTE 11"
+    }
+  },
+  "7.jpg": {
+    "category": "natural_scene",
+    "pii": {},
+    "description": "A large piece of driftwood on a beach under a cloudy blue sky.",
+    "metadata": {
+      "text_in_image": "REDMI NOTE 11"
+    }
+  },
+  "8.jpg": {
+    "category": "natural_scene",
+    "pii": {},
+    "description": "People walking on a paved street at night lined with buildings and illuminated by streetlights and colorful string lights.",
+    "metadata": {
+      "text_in_image": "REDMI NOTE 11"
+    }
+  },
+  "9.jpg": {
+    "category": "natural_scene",
+    "pii": {},
+    "description": "A hand holding a white mug of a beverage in front of an open window overlooking a mountainous landscape and a town."
+  },
+  "10.jpg": {
+    "category": "natural_scene",
+    "pii": {},
+    "description": "A hand holding glasses covered in water droplets against a window with a blurred green landscape outside.",
+    "metadata": {
+      "text_in_image": "REDMI NOTE 11"
+    }
+  },
+  "11.jpg": {
+    "category": "natural_scene",
+    "pii": {},
+    "description": "A close-up of a white flower blooming on a plant with green leaves.",
+    "metadata": {
+      "text_in_image": "REDMI NOTE 11"
+    }
+  },
+  "12.jpg": {
+    "category": "natural_scene",
+    "pii": {},
+    "description": "A hand holding several small white flowers with orange stems against a background of a rooftop garden and buildings.",
+    "metadata": {
+      "text_in_image": "REDMI NOTE 11"
+    }
+  },
+  "13.jpg": {
+    "category": "natural_scene",
+    "pii": {},
+    "description": "A man in a grey shirt standing on a beach looking out at the ocean, with people swimming in the distance under a blue sky with scattered clouds."
+  },
+  "14.jpg": {
+    "category": "natural_scene",
+    "pii": {},
+    "description": "An aerial view of clouds from an airplane window.",
+    "metadata": {
+      "text_in_image": "REDMI NOTE 11"
+    }
+  },
+  "15.jpg": {
+    "category": "natural_scene",
+    "pii": {},
+    "description": "A black squirrel clinging to a tree trunk in a grassy area near a brick building.",
+    "metadata": {
+      "text_in_image": "REDMI NOTE 11"
+    }
+  },
+  "16.jpg": {
+    "category": "natural_scene",
+    "pii": {},
+    "description": "A deer walking on a grassy area next to a paved path, with a tree, a brick building, and a white trailer in the background.",
+    "metadata": {
+      "text_in_image": "REDMI NOTE 11"
+    }
+  },
+  "17.jpg": {
+    "category": "natural_scene",
+    "pii": {},
+    "description": "An outdoor covered picnic area with wooden tables and a grill, looking out over a marshy area and body of water.",
+    "metadata": {
+      "text_in_image": "REDMI NOTE 11"
+    }
+  },
+  "18.jpg": {
+    "category": "natural_scene",
+    "pii": {},
+    "description": "A brick walkway on a college campus with people walking. There is a grassy area with a large white tent, college banners, and a giant inflatable mascot.",
+    "metadata": {
+      "text_in_image": "REDMI NOTE 11"
+    }
+  },
+  "19.jpg": {
+    "category": "natural_scene",
+    "pii": {},
+    "description": "People walking on a brick plaza on a college campus with trees, flowers, and trash cans in the foreground.",
+    "metadata": {
+      "text_in_image": "REDMI NOTE 11"
+    }
+  },
+  "20.jpg": {
+    "category": "natural_scene",
+    "pii": {},
+    "description": "A man wearing a cap and sunglasses standing on a brick walkway on a college campus, with other people, tents, and college banners in the background.",
+    "metadata": {
+      "text_in_image": "REDMI NOTE 11"
+    }
+  },
+  "bankcard_1.jpg": {
+    "category": "bank_card",
+    "pii": {
+      "id_number": "1200 3567 4510 4500",
+      "name": "Card Holders Name",
+      "expiry": "12/27"
+    }
+  },
+  "bankcard_2.png": {
+    "category": "bank_card",
+    "pii": {
+      "id_number": "4321 8765 0987 1234",
+      "name": "JANE SMITH",
+      "expiry": "10/20"
+    }
+  },
+    "bankcard_3.jpg": {
+    "category": "bank_card",
+    "pii": {
+      "id_number": "4351 2345 6789 1011",
+      "name": "FINE M CUSTOMER",
+      "expiry": "12/20"
+    }
+  },
+  "bankcard_4.png": {
+    "category": "bank_card",
+    "pii": {
+      "id_number": "4000 1234 5678 9010",
+      "name": "G. RAYMOND",
+      "expiry": "12/20"
+    }
+  },
+  "bankcard_5.jpg": {
+    "category": "bank_card",
+    "pii": {
+      "id_number": "4000 2331 5875 9123",
+      "name": "CARDHOLDER",
+      "expiry": "12/18"
+    }
+  },
+  "bankcard_6.jpg": {
+    "category": "bank_card",
+    "pii": {
+      "id_number": "4000 1234 5678 9010",
+      "name": "C. ARIAS",
+      "expiry": "12/24"
+    }
+  },
+  "bankcard_7.jpg": {
+    "category": "bank_card",
+    "pii": {
+      "id_number": "5432 1000 0000 0000",
+      "name": "TRUSTED PARTNER",
+      "expiry": "01/29"
+    }
+  },
+  "bankcard_8.jpg": {
+    "category": "bank_card",
+    "pii": {
+      "id_number": "4000 1234 5678 9123",
+      "name": "CHRIS L MARTIN",
+      "expiry": "00/00"
+    }
+  },
+  "bankcard_9.jpg": {
+    "category": "bank_card",
+    "pii": {
+      "id_number": "4000 1234 5678 9010",
+      "name": "DANIEL ADAMS",
+      "expiry": "12/19"
+    }
+  },
+  "bankcard_10.png": {
+    "category": "bank_card",
+    "pii": {
+      "id_number": "4422 9101 7890 1234",
+      "name": "J. SMITH",
+      "expiry": "06/16"
+    }
+  },
+  "driving_1.png": {
+    "category": "driving_license",
+    "pii": {
+      "id_number": "A123-456-789-123",
+      "name": "SAMPLE AVERY JOSEPH, SR",
+      "dob": "08/15/1957",
+      "phone_number": null,
+      "address": "456 BLOOMINGTON AVE MINNEAPOLIS, MN 55417-1234"
+    }
+  },
+  "driving_2.jpg": {
+    "category": "driving_license",
+    "pii": {
+      "id_number": "99 999 999",
+      "name": "SAMPLE JANICE ANN",
+      "dob": "08/04/1975",
+      "phone_number": null,
+      "address": "123 MAIN STREET APT. 1 HARRISBURG, PA 17101-0000"
+    }
+  },
+  "driving_3.png": {
+    "category": "driving_license",
+    "pii": {
+      "id_number": "123456789",
+      "name": "SAMPLECARD JOHN ALEXANDER",
+      "dob": "05/25/1990",
+      "phone_number": null,
+      "address": "1234 EXAMPLE ST SOUTH SIOUX CITY, SA 12345-0000"
+    }
+  },
+  "driving_4.jpg": {
+    "category": "driving_license",
+    "pii": {
+      "id_number": "S99988801",
+      "name": "SAMPLE CONNOR",
+      "dob": "01/12/1959",
+      "phone_number": null,
+      "address": "123 NORTH MAIN STREET APT. 1 NORTH QUINCY, MA 02171-1748"
+    }
+  },
+  "driving_5.png": {
+    "category": "driving_license",
+    "pii": {
+      "id_number": "000023457891",
+      "name": "PUBLIC JANE Q",
+      "dob": "06/01/1964",
+      "phone_number": null,
+      "address": "2345 YOUR STREET YOUR CITY, NC 99999-1234"
+    }
+  },
+  "driving_6.jpg": {
+    "category": "driving_license",
+    "pii": {
+      "id_number": "N00000328",
+      "name": "SAMUEL LEROY SAMPLE",
+      "dob": "03-21-1976",
+      "phone_number": null,
+      "address": "12 COTTONWOOD RD LINCOLN, NE 09471"
+    }
+  },
+  "driving_7.jpeg": {
+    "category": "driving_license",
+    "pii": {
+      "id_number": "T16700285",
+      "name": "REYES RICHARD BENJAMIN",
+      "dob": "01/05/1987",
+      "phone_number": null,
+      "address": "5235 JOHN TYLER HWY WILLIAMSBURG, VA 23185"
+    }
+  },
+  "driving_8.jpg": {
+    "category": "driving_license",
+    "pii": {
+      "id_number": "1234567",
+      "name": "SAMPLECARD SAMUEL DANIEL, JR",
+      "dob": "03/23/1965",
+      "phone_number": null,
+      "address": "123 RAILROAD AVE SE WASHINGTON, DC 20001-0000"
+    }
+  },
+  "driving_9.png": {
+    "category": "driving_license",
+    "pii": {
+      "id_number": "300031699905",
+      "name": "DOE TRENA",
+      "dob": "12/25/1968",
+      "phone_number": null,
+      "address": "421 UAT BLVD RALEIGH, NC 27697-0001"
+    }
+  },
+  "driving_10.png": {
+    "category": "driving_license",
+    "pii": {
+      "id_number": "S123-4567-6501-00",
+      "name": "SAMPLE DEREK THOMAS",
+      "dob": "02/11/1974",
+      "phone_number": null,
+      "address": "4802 SHEBOYGAN AVE MADISON, WI 53705"
+    }
+  },
+  "ssn_1.jpg": {
+    "category": "ssn_card",
+    "pii": {
+      "id_number": "123-45-678",
+      "name": "ETHAN MICHELE HUNT",
+      "dob": null,
+      "phone_number": null,
+      "address": null
+    }
+  },
+  "ssn_2.jpg": {
+    "category": "ssn_card",
+    "pii": {
+      "id_number": "623-00-3209",
+      "name": "KAREEM MOORE",
+      "dob": null,
+      "phone_number": null,
+      "address": null
+    }
+  },
+  "ssn_3.png": {
+    "category": "ssn_card",
+    "pii": {
+      "id_number": "409-52-2002",
+      "name": "Elvis Aron Presley",
+      "dob": null,
+      "phone_number": null,
+      "address": null
+    }
+  },
+  "ssn_4.jpg": {
+    "category": "ssn_card",
+    "pii": {
+      "id_number": "123-45-6789",
+      "name": "JOHN O PUBLIC",
+      "dob": null,
+      "phone_number": null,
+      "address": null
+    }
+  },
+  "ssn_5.jpg": {
+    "category": "ssn_card",
+    "pii": {
+      "id_number": "194-30-6624",
+      "name": "ROBERTO CLEMENTE",
+      "dob": null,
+      "phone_number": null,
+      "address": null
+    }
+  },
+  "studentid_1.jpg": {
+    "category": "student_id",
+    "pii": {
+      "id_number": "453-3545564",
+      "name": "Aditya Sharma",
+      "dob": "14/07/2003",
+      "phone_number": "9988888888",
+      "address": "1234, Modern Road, City Name, 434567"
+    }
+  },
+  "studentid_2.jpg": {
+    "category": "student_id",
+    "pii": {
+      "id_number": "8675309",
+      "name": "Aliyah Jordan",
+      "dob": null,
+      "phone_number": null,
+      "address": null
+    }
+  },
+  "studentid_3.png": {
+    "category": "student_id",
+    "pii": {
+      "id_number": "S-000002",
+      "name": "Alvin DeSilva",
+      "dob": null,
+      "phone_number": null,
+      "address": "619 Marcus Ave., 10016 New York, NY, United States"
+    }
+  },
+  "studentid_4.jpg": {
+    "category": "student_id",
+    "pii": {
+      "id_number": "123456",
+      "name": "Alveena S. Kudhus",
+      "dob": null,
+      "phone_number": "97905 47171",
+      "address": null
+    }
+  },
+  "studentid_5.png": {
+    "category": "student_id",
+    "pii": {
+      "id_number": "GU-2055-1042",
+      "name": "JOHN WILKINS",
+      "dob": "APRIL 15, 2039",
+      "phone_number": null,
+      "address": null
+    }
+  },
+  "studentid_6.jpg": {
+    "category": "student_id",
+    "pii": {
+      "id_number": "15/02/2008",
+      "name": "ALFREDO TORRES",
+      "dob": "123-456-789",
+      "phone_number": null,
+      "address": "123 ANYWHERE ST, . ANY CITY"
+    }
+  },
+  "studentid_7.jpg": {
+    "category": "student_id",
+    "pii": {
+      "id_number": "263.7487.1278B",
+      "name": "Smithon, John",
+      "dob": "10-10-1987",
+      "phone_number": null,
+      "address": null
+    }
+  },
+  "studentid_8.jpg": {
+    "category": "student_id",
+    "pii": {
+      "id_number": "0865 9765 2345 6543",
+      "name": "JANET A. JONES",
+      "dob": null,
+      "phone_number": null,
+      "address": null
+    }
+  },
+  "studentid_9.jpg": {
+    "category": "student_id",
+    "pii": {
+      "id_number": "12345 000999",
+      "name": "MELVIN SAMPELTON",
+      "dob": null,
+      "phone_number": null,
+      "address": null
+    }
+  },
+  "studentid_10.jpg": {
+    "category": "student_id",
+    "pii": {
+      "id_number": "011325542",
+      "name": "SAM SMITH",
+      "dob": null,
+      "phone_number": null,
+      "address": null
+    }
+  }
+}
