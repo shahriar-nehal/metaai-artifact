@@ -1,0 +1,6 @@
+fastapi
+uvicorn[standard]
+chromadb
+requests
+python-multipart
+pydantic
